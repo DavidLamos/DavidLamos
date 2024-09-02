@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muhammad Muawiyah!
+# Hi 👋, I'm David Lamos!
 
 
 ## 🚀 About Me
