@@ -29,10 +29,10 @@ I’m David Lamos a Full Stack Web Developer & Mobile App Developer with over 5+
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@davidlamos"><img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=davidlamos&theme=gotham&hide_border=true&layout=compact&langs_count=14&range=all_time" alt="@simba's wakatime stats" /></a>
-  <a href="https://wakatime.com/@davidlamos"><img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlamos&langs_count=14&layout=compact&theme=gotham&range=all_time&hide_border=true" alt="@simba's wakatime stats" /></a>
+<!--   <a href="https://wakatime.com/@davidlamos"><img
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=davidlamos&theme=gotham&hide_border=true&layout=compact&langs_count=14&range=all_time" alt="@simba's wakatime stats" /></a> -->
+<!--   <a href="https://wakatime.com/@davidlamos"><img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlamos&langs_count=14&layout=compact&theme=gotham&range=all_time&hide_border=true" alt="@simba's wakatime stats" /></a> -->
 <!-- </p> -->
 <!-- <br/> -->
 <!-- <div align="center">
